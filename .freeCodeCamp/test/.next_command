@@ -415,3 +415,40 @@ git add
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "Bike_Rental_Shop"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin master
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote add https://github.com/Pomelog/Bike_rental_shop.git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote add origin https://github.com/Pomelog/Bike_rental_shop.git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin master
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin master
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin master
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote -v
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push origin master
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git remote add origin https://github.com/Pomelog/hola.git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
