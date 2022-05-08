@@ -405,3 +405,13 @@ history -a
 ./bike-shop.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+git clone https://github.com/Pomelog/Bike_rental_shop.git
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
